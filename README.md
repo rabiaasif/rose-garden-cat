@@ -1,6 +1,6 @@
 # rose-garden-cat
 
-Flask + Slack Bot For Counting Points
+Flask + Heroku + Slack Bot For Counting Points
 
 <br/>
 
