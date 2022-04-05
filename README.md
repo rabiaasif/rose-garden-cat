@@ -1,6 +1,8 @@
 # Garden Cat
 
 ![image](https://user-images.githubusercontent.com/16907370/160915706-1040f0aa-fb11-46d7-afb5-30c7972bf468.png)
+
+<br/>
 Garden cat is a slack bot to keep score of roses recieved by a user
 
 
